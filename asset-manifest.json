@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blari/Classic_ToDo_List_React/static/css/main.cadda1f6.chunk.css",
+    "main.js": "/Blari/Classic_ToDo_List_React/static/js/main.40c8407a.chunk.js",
+    "main.js.map": "/Blari/Classic_ToDo_List_React/static/js/main.40c8407a.chunk.js.map",
+    "runtime-main.js": "/Blari/Classic_ToDo_List_React/static/js/runtime-main.115b2195.js",
+    "runtime-main.js.map": "/Blari/Classic_ToDo_List_React/static/js/runtime-main.115b2195.js.map",
+    "static/js/2.b6545c20.chunk.js": "/Blari/Classic_ToDo_List_React/static/js/2.b6545c20.chunk.js",
+    "static/js/2.b6545c20.chunk.js.map": "/Blari/Classic_ToDo_List_React/static/js/2.b6545c20.chunk.js.map",
+    "index.html": "/Blari/Classic_ToDo_List_React/index.html",
+    "precache-manifest.31c951fa22a556e3a9da9daeee84156a.js": "/Blari/Classic_ToDo_List_React/precache-manifest.31c951fa22a556e3a9da9daeee84156a.js",
+    "service-worker.js": "/Blari/Classic_ToDo_List_React/service-worker.js",
+    "static/css/main.cadda1f6.chunk.css.map": "/Blari/Classic_ToDo_List_React/static/css/main.cadda1f6.chunk.css.map",
+    "static/js/2.b6545c20.chunk.js.LICENSE.txt": "/Blari/Classic_ToDo_List_React/static/js/2.b6545c20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.115b2195.js",
+    "static/js/2.b6545c20.chunk.js",
+    "static/css/main.cadda1f6.chunk.css",
+    "static/js/main.40c8407a.chunk.js"
+  ]
+}
